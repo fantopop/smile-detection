@@ -28,3 +28,6 @@ Temporary Items
 
 # Jupyter Notebook Chekpoints
 .ipynb_checkpoints
+
+# Python cache
+__pycache__
