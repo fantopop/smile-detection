@@ -1,6 +1,8 @@
 # Smile and open mouth detection using facial landmarks
 
-In this repository you can find a trained model for detecting smiles and open mouth on images. This model uses [dlib](http://dlib.net) face and facial landmarks detector.
+In this repository you can find a trained model for detecting smiles and open mouth on images. This model uses [dlib](http://dlib.net) face and facial landmarks detector.  
+
+![Facial landmarks](landmarks.png)
 
 ## Data
 Train data consists of 865 images from [Helen dataset](http://www.ifp.illinois.edu/~vuongle2/helen/) and other sources. Also there additional 40 images from Helen dataset for manual testing.
